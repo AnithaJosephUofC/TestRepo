@@ -1,0 +1,13 @@
+This is a test repository
+
+Commands i have used toi onstall the git in my system in Terminal
+-------------------------------------------------------
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install git
+git --version
+
+
+Then I have created a file in my system desktop
+I have cloned this git repo to my local system using the below command
+git clone "url path for git repo"
+
