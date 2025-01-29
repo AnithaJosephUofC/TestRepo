@@ -11,3 +11,7 @@ Then I have created a file in my system desktop
 I have cloned this git repo to my local system using the below command
 git clone "url path for git repo"
 
+go to the repo path and then start working! 
+
+
+Now to get 
