@@ -7,11 +7,11 @@ brew install git
 git --version
 
 
-Then I have created a file in my system desktop
+Then I have created a folder in my system desktop to clone the remote repo
 I have cloned this git repo to my local system using the below command
 git clone "url path for git repo"
 
 go to the repo path and then start working! 
 
+Now i have created a file in remote repo and now i want the file in my local. for that use the below command
 
-Now to get 
